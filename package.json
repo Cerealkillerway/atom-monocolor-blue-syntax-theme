@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "git@github.com:Cerealkillerway/atom-monocolor-blue-syntax-theme.git",
+  "repository": "https://github.com/Cerealkillerway/atom-monocolor-blue-syntax-theme.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
